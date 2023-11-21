@@ -1,0 +1,8 @@
+.vscode
+.json
+build/
+.o
+.exe
+.ilk
+.obj
+.pdb
